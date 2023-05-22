@@ -24,7 +24,7 @@ Epoch Game Technical Support
 If you encounter any issues or have any questions while using the project, please feel free to contact us:
 
 - Email: [jmae6416@gmail.com]
-- GitHub Issues: [Link to the project's GitHub Issues]
+- GitHub Issues: [[Link to the project's GitHub Issues](https://github.com/EPOCHGAME/Epoch-Game/blob/aa728f6f87b9d4b1d1e9581fdfc4958de42c4525/README.md)]
 
 We will get back to you as soon as possible to provide support.
 
